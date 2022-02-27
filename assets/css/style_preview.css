@@ -162,19 +162,6 @@ textarea#forminator-field-textarea-1 {
 .nav-responsive{
   display: none;
 }
-.circle.facebook-messenger-avatar {
-    background: #323ad5;
-    position: fixed;
-    top: 80%;
-    right: 2%;
-    border-radius: 50%;
-    padding: 8px;
-    cursor: pointer;
-  }
-  .circle.facebook-messenger-avatar img{
-    width: 38px;
-      height: 38px;
-  }
 @media (max-width:770px){
   .review_contents{
     flex-wrap: wrap;
